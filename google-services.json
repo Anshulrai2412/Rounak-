@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "269684316637",
+    "firebase_url": "https://rounak-16f66-default-rtdb.firebaseio.com",
+    "project_id": "rounak-16f66",
+    "storage_bucket": "rounak-16f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269684316637:android:3dabde0ef72f2be7c13e34",
+        "android_client_info": {
+          "package_name": "Sigma.male"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcOYJvA7Cf-8wlw6FXlQv4zfLyW5jPOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
